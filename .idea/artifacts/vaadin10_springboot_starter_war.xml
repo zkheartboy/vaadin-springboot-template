@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vaadin10-springboot-starter:war">
+    <output-path>$PROJECT_DIR$/vaadin10-springboot-starter/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>vaadin10-springboot-starter</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="vaadin10-springboot-starter-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="vaadin10-springboot-starter:war exploded" />
+    </root>
+  </artifact>
+</component>
